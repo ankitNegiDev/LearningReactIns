@@ -8,8 +8,8 @@
 
 // how many types of component in react.
 /**
- * class based (older)
- * functional (newer)
+ * class based (older)  dynamic changes ..
+ * functional (newer)   static changes ... ====> dynamic changes comes due to hooks..
  */
 
 // diff b/w function and component
@@ -17,7 +17,8 @@
  * function can return any thing but the component will return only jsx or what should be render on ui.
  */
 
-
+// rafce
+// rfce
 // rfac => arrwo function export in smae line
 // rfc => normal function export in same line
 
