@@ -1,6 +1,6 @@
 // useEffect()
-// side effect ... 
-// api calling , setTimout , setInterval.
+// side effect ...  means that directly does not change the dom..
+// api calling(fetch , axios) , setTimout , setInterval.,
 
 
 // useEffect()..

@@ -17,7 +17,7 @@ function Task({userName}) {
     }
     useEffect(function callback() {
         asyncAwaitApi(userName);
-    }, []);
+    },[]);
     console.log("userData : ", user);
     return (
         <>
