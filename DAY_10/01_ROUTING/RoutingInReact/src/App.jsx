@@ -4,7 +4,7 @@ import Cat from "./components/Cat";
 import Home from "./components/Home"
 import Dog from "./components/Dog";
 import Loading from "./components/Loading";
-import { lazy } from "react";
+// import { lazy } from "react";
 
 // const Dashboard = React.lazy(()=>import("./components/Dashboard"))
 
